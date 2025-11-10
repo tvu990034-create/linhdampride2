@@ -1,0 +1,18 @@
+{
+  "name": "linhdampride2",
+  "version": "1.0.0",
+  "description": "SecureStack Clarity Scanner + 34 Math Equations (VN Time)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.7"
+  },
+  "author": "SecureStack Vietnam",
+  "license": "MIT"
+}
